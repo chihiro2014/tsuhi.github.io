@@ -1,11 +1,9 @@
 # Basic
-title: Vno Jekyll
-subtitle: A blog-orientation theme for Jekyll
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
-creator: <a href="http://onev.cat">@onevcat</a>
-
-url: "http://vno.onevcat.com"
+title: AARの朝闻夕死
+subtitle: 
+welcome_message:
+description: AARの朝闻夕死
+creator: 
 
 permalink: /:year/:month/:title/
 
@@ -37,11 +35,11 @@ comment:
     
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
-    gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    weibo: 
+    github: chihiro2014
+    twitter: chihiro2014
+    gplus: 
+    mail: liujch1996@gmail.com
 
 # Google Analytics
 ga:
